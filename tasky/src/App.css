@@ -44,3 +44,7 @@ div {
 .description {
   color: lightgray;
 }
+
+.priority {
+  font-weight: bold;
+}
